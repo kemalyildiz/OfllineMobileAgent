@@ -1,4 +1,0 @@
-OfllineMobileAgent
-==================
-
-kes lan
